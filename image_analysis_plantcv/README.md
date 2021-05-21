@@ -1,24 +1,8 @@
-# NAPPN 2021 Conference PlantCV virtual workshop materials
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/danforthcenter/plantcv-nappn2021-workshop.git/main)
-
-This repository contains materials used in the PlantCV workshop (February 16, 2021 from 8:30am to 11:00am CST) in the 2021 NAPPN Annual Conference (https://www.nappn2021.org/).
+# Image analysis with PlantCV
 
 ## Image analysis in Python with PlantCV
 
 This workshop aims to provide a virtual, hands-on, and interactive introduction to image analysis with Python and PlantCV (https://plantcv.danforthcenter.org/). Participants will utilize interactive coding environments in the cloud (Jupyter notebooks) to gain hands-on experience with importing and working with image data in Python using PlantCV and other open-source tools. The learning goals of the workshop are: 1) participants will gain an understanding of image data structure and the primary tools available in Python to work with image data; 2) participants will learn how to use PlantCV to build image analysis workflows; 3) participants will learn how to process image data in parallel using PlantCV workflows; and 4) participants will gain a brief introduction to visualizing phenotypic measurements extracted from a PlantCV workflow analysis.
-
-### Agenda
-
-1. Introduction
-2. Working with images in Python
-3. Develop PlantCV image analysis workflows
-4. Parallel image analysis
-5. Visualization of phenotypic measurements
-
-**Presenters**: [Malia Gehan](https://www.danforthcenter.org/our-work/principal-investigators/malia-gehan/),
-[Haley Schuhl](https://twitter.com/HaleySchuhl),
-and [Noah Fahlgren](https://www.danforthcenter.org/our-work/principal-investigators/noah-fahlgren/)
 
 **Project website**: https://plantcv.danforthcenter.org/
 

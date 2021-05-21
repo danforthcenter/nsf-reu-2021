@@ -10,19 +10,19 @@
 
 10:00am - 10:30am: Linux command-line
 
-10:30am - 12:00pm: HTCondor
+10:30am - 12:00pm: [HTCondor](./htcondor/)
 
 12:00pm - 1:00pm: Lunch break
 
-1:00pm - 4:00pm: Introduction to R
+1:00pm - 4:00pm: [Introduction to R](./intro_R/)
 
 ### Day 2
 
 9:00am - 9:30am: Introduction to imaging and image analysis
 
-9:30am - 10:30am: Working with image data in Python and Jupyter
+9:30am - 10:30am: [Working with image data in Python and Jupyter](./intro_to_image_data)
 
-10:30am - 12:00pm: Image analysis with PlantCV
+10:30am - 12:00pm: [Image analysis with PlantCV](./image_analysis_plantcv/)
 
 12:00pm - 1:00pm: Lunch break
 

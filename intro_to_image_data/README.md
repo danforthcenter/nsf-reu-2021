@@ -1,1 +1,1 @@
-# Introduction to working with image data in Python
+# Working with image data in Python and Jupyter
