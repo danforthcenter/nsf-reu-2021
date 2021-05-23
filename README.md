@@ -8,7 +8,7 @@
 
 9:30am - 10:00am: Computer setup
 
-10:00am - 10:30am: Linux command-line
+10:00am - 10:30am: [Linux command-line](./linux/)
 
 10:30am - 12:00pm: [HTCondor](./htcondor/)
 
