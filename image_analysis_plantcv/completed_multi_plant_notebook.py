@@ -36,7 +36,7 @@ def main():
     img, path, filename = pcv.readimage(filename=args.image)
 
     # Rotate input image 1 degree
-    rot_img = pcv.rotate(img=img, rotation_deg=1, crop=True)
+    rot_img = pcv.transform.rotate(img=img, rotation_deg=1, crop=True)
 
     #### Create a mask and begin to clean it ####
     # Change color space for plant extraction
@@ -92,7 +92,7 @@ def main():
         pcv.print_image(img_copy, os.path.join(args.outdir, filename + "_shapes.jpg"))
 
     # Save the results
-    pcv.print_results(filename=args.result)
+    pcv.outputs.save_results(filename=args.result)
 
 
 if __name__ == "__main__":
