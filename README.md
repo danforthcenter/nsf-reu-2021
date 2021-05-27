@@ -26,4 +26,4 @@
 
 12:00pm - 1:00pm: Lunch break
 
-1:00pm - end: [Analysis of teff image data]((./analysis_of_teff_image_data/))
+1:00pm - end: [Analysis of teff image data]((./analysis_of_teff_image_data/)
