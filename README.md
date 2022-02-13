@@ -1,5 +1,7 @@
 # NSF REU 2021 Data Science and Phenotyping Workshop
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/danforthcenter/nsf-reu-2021.git/HEAD)
+
 ## Agenda
 
 ### Day 1
